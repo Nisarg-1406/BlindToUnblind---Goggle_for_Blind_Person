@@ -1,2 +1,14 @@
 # BlindToUnblind---Goggle_for_Blind_Person
-This will include all Computer Vision Features that will help Blind Person 
+This will include the Computer Vision Features that will help Blind Person
+
+## Table of Contents - 
+* [About Project](#about-project)
+
+## About Project
+* Blindness is strictly defined as the state of being totally sightless in both eyes. A completely blind individual is unable to see at all. The word blindness, however, is commonly used as a relative term to signify visual impairment, or low vision, meaning that even with eyeglasses, contact lenses, medicine or surgery, a person does not see well. Vision impairment can range from mild to severe. Our understanding of gender and blindness started with a systematic review of global populationbased blindness surveys carried out between 1980 and 2000. This systematic review and meta - analysis showed that blindness is approximately 40% more common in women compared to men, regardless of age. Our aim is to provide develop an android application where the camera of the phone can act as the eye for the blind person that can detect the object in front of him/her and can produce the text to speech output. All of the processes is being done in the cloud for the simplifying the storage purpose of the data. we are going to make the website where the people can know about us.
+
+* The Part included in this repository is the Computer Vision Part. The features that included are : `Indian Currency Notes Detection, Obstacle Detection on the Moving Video, Detecting Multiple Rice Types, Detecting Barcode in Images, Detecting Barcode in Videos, Reading Short Text and Printed Pages, Detecting Monuments Of India`. 
+
+## Indian Currency Notes Detection
+* About the Project - The Project aims for detecting the different currency Notes of India and giving the correct output. The purpose of the project is that, As there are physically disable people in our country, this project would help to identify different currency notes. For Eg : For the blind person, When they are doing money transaction, as they are not able to see, this project would help them to do the transactions. I have done research and found that, Person without seeing can hold the currency notes in 8 different forms. The computer vision Algorithm i.e single shot mulitbox detector detects the currency notes in all 8 directions forms and hence making it Easier for the Blind person for doing the Transactions. I have taken into consideration 9 types of Currency Notes - `10Rs New Version Notes, 10Rs Old Version Notes, 20Rs Notes, 50Rs New Version Notes, 50Rs Old Version Notes, 100Rs New Version Notes, 100Rs Old Version Notes, 200Rs Notes, 500Rs Notes`. All the images are taken on background for this project are taken from Phone Camera and not taken from the internet. 
+* I have Explained each and every line of code of my Project along with the input and output Images. For more Information, Please Visit this Link - https://github.com/Nisarg-1406/Currency-Notes-Detection- 
