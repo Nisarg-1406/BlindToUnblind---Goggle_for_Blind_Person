@@ -3,6 +3,15 @@ This will include the Computer Vision Features that will help Blind Person
 
 ## Table of Contents - 
 * [About Project](#about-project)
+* [Indian Currency Notes Detection](#indian-currency-notes-detection)
+* [Obstacle Detection on the Moving Video](#obstacle-detection-on-the-moving-video)
+* [Multiple Rice Type Detection](#multiple-rice-type-detection)
+* [Reading Short Text and Printed Pages](#reading-short-text-and-printed-pages)
+* [Detect Barcode in Images](#detect-barcode-in-images)
+* [Detect Barcode in Videos](#detect-barcode-in-videos)
+* [Measuring Distance From Camera](#measuring-distance-from-camera)
+* [Monuments Of India](#monuments-of-india)
+* [About Me](#about-me)
 
 ## About Project
 * Blindness is strictly defined as the state of being totally sightless in both eyes. A completely blind individual is unable to see at all. The word blindness, however, is commonly used as a relative term to signify visual impairment, or low vision, meaning that even with eyeglasses, contact lenses, medicine or surgery, a person does not see well. Vision impairment can range from mild to severe. Our understanding of gender and blindness started with a systematic review of global populationbased blindness surveys carried out between 1980 and 2000. This systematic review and meta - analysis showed that blindness is approximately 40% more common in women compared to men, regardless of age. Our aim is to provide develop an android application where the camera of the phone can act as the eye for the blind person that can detect the object in front of him/her and can produce the text to speech output. All of the processes is being done in the cloud for the simplifying the storage purpose of the data. we are going to make the website where the people can know about us.
@@ -33,3 +42,19 @@ This will include the Computer Vision Features that will help Blind Person
 * About the Project - As for the blind Person, the main concern is about the health, so it is very Important to choose proper diet. So by detecting the barcode present on the Food Products with the help of Camera also by the Video, the blind person in the form of speech can get to know about the Food Product ingredients and this form it can help them in major form. This project aims for the detecting the barcode in a video and then scanning the barcode and detect the object for the barcode detected. The code is executed in python language in Jupyter Notebook.
 * I have Explained each and every line of code of my Project. For more Information about Project, Please Visit this Link - https://github.com/Nisarg-1406/Detect-Barcode-in-a-Video
 
+## Measuring Distance From Camera
+* About the Project - For the Blind Person, Its very important to know about the distance at which the Object or Obstacle is present and when with the some particular limit from the object or obstacle, the buzzer would sound so that the user is safe from any of the harm or if the user wants to take some object in hand, then it will help him/her to easily take that object by knowing the distance. This Project aims for the measuring the distance from the point to the camera and giving the distance as the output. The code is executed in python language in Jupyter Notebook. 
+* I have Explained each and every line of code of my Project. For more Information about Project, Please Visit this Link - https://github.com/Nisarg-1406/Measuring-Distance-From-Camera
+
+## Monuments Of India
+About the Project - The Project aims for detecting the different monuments of India and giving the correct output. The purpose of the project is that, As there are physically disable people in our country, this project would help to get to know about the different monuments of the country and about the history associated with the monuments. For Eg : For the blind person, When the camera of the phone detects the monument object, then from the help of Text to speech, the Assoaciated Application or if we have the Goggle for the blind person then it help to get out the information and hence would helped the blind person. In this case the different monuments detected are : Taj Mahal, Statue of Unity, Gateway of India, Hawa Mahal, Mysore Palace. Also for text to speech conversion I have created dictionary, that would really help out.
+* I have Explained each and every line of code of my Project. For more Information about Project, Please Visit this Link - https://github.com/Nisarg-1406/Monuments-Of-India
+
+## About Me
+**IF YOU LIKED MY WORK, PLEASE HIT THE STAR BUTTON, AND IF POSSIBLE DO PLEASE SHARE, SO THAT COMMUNITY CAN GET BENIFIT OUT OF IT BEACUSE I AM EXLPANING EACH AND EVERY LINE OF CODE FOR EACH AND EVERY PROJECT OF MINE.**
+
+Also I am Solving **Algorithms and Data Structure Problems from more than 230 Days Without any off-Day and have solved more than 405 Questions on various topics and posting my solutions on Github Daily**. You can Visit my Profile of LeetCode here - **https://leetcode.com/Nisarg1406/**
+
+I am good at Algorithms and Data structure and I have good Projects in Machine learning and Deep Learning (Computer Vision). **I am and would be posting the detialed explantion of each and every project working**. I am activily looking for an Internhip in **Software development enginering (SDE) Domain and Machine learning Domain**.
+
+You can contact me on my mail ID - nisarg.mehta18@vit.edu OR nisargmehta2000@gmail.com and even Contact me on LinkedIn - https://www.linkedin.com/in/nisarg-mehta-4a378a185/
